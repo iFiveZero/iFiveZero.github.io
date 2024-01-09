@@ -8,3 +8,5 @@ tags: [plotly, dash]  # TAG names should always be in lowercase
 # Deploying a Dash App to Huggingface
 
 {% include image name="DashDocker.png" caption="Huggingface Docker Screen" %}
+
+{% include image name="DashDocker2.png" caption="Huggingface Docker Clone Screen" %}
