@@ -22,12 +22,12 @@ Huggingface provides free hosting using docker to enable apps to be demonstrated
 Once you have created your Huggingface account,  you will create a new Space using Docker as per the image below. Give your Space a name, select Docker, use a blank Docker template and click Create Space.
 
 [//]: # "Need to update impage alt text and caption."
-![Image](/post_images/2024-01-09-Deploy-Dash-Huggingface/DashDocker.PNG)
+![Create new Space page](/post_images/2024-01-09-Deploy-Dash-Huggingface/DashDocker.PNG "Create new Huggingface Space with Docker")
 
 ### Clone the Huggingface Repository
 
 Once you have created your space you will be given the details to clone the Huggingface GIT repository. I clones the repository to my local drive and used VSCode to to create files, commit and sync.
-![Image](/post_images/2024-01-09-Deploy-Dash-Huggingface/DashDocker2.PNG)
+![Clone Repository](/post_images/2024-01-09-Deploy-Dash-Huggingface/DashDocker2.PNG "Clone repository and Dockerfile details")
 
 ### Create the Docker file.
 In your cloned Huggingface repository create a file called Docker (no extension) and copy the sample provided (as per the image above).
@@ -87,7 +87,7 @@ if __name__ == '__main__':
     #Update host and port to match dockerfile
     app.run(debug=True, host='0.0.0.0', port=7860)
 ```
-Note the app.run code has been updated to include the host and port to match the dockerfile
+Note the app.run code has been updated to include the host and port to match the Dockerfile.
 
 ### Create requirements.txt
 In your cloned Huggingface repository create a requirements.txt file with the following:
