@@ -12,3 +12,5 @@ Test text.
 More text.
 
 Even more text.
+
+{% include footer.html %}
