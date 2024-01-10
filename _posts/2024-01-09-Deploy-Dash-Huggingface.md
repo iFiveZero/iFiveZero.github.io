@@ -7,4 +7,6 @@ tags: [plotly, dash]  # TAG names should always be in lowercase
 
 # Deploying a Dash App to Huggingface
 
-Test text
+Test text.
+
+More text.
