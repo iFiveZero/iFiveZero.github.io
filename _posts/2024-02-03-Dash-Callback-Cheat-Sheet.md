@@ -55,7 +55,6 @@ Tips:
 
 Additional Resources:
 
-* Cheatsheet: https://hellodash.pythonanywhere.com/cheatsheet
-* Basic Callbacks Tutorial: https://dash.plotly.com/basic-callbacks
-* The Dash Callback Explained: https://www.youtube.com/watch?v=mTsZL-VmRVE
-* I hope this cheat sheet helps you remember the core concepts of Plotly Dash Callbacks!
+* Cheatsheet: [https://hellodash.pythonanywhere.com/cheatsheet](https://hellodash.pythonanywhere.com/cheatsheet "Cheatsheet")
+* Basic Callbacks Tutorial: [https://dash.plotly.com/basic-callbacks](https://dash.plotly.com/basic-callbacks "Tutorial")
+* The Dash Callback Explained: [https://www.youtube.com/watch?v=mTsZL-VmRVE](https://www.youtube.com/watch?v=mTsZL-VmRVE "video explanation")
