@@ -1,6 +1,6 @@
 ---
 title: Dash Callback Cheat Sheet
-date: 2024-02-3 07:00:00 -0000 # Note the offset of -0000 is optional
+date: 2024-02-03 07:00:00 -0000 # Note the offset of -0000 is optional
 categories: [dash, callbacks]
 tags: [dash, callback, reference]  # TAG names should always be in lowercase
 ---
@@ -51,7 +51,7 @@ Tips:
 * Use meaningful component IDs for better readability.
 * Keep callback functions concise and focused on specific updates.
 * Test your callbacks thoroughly with different input values.
-* Refer to the official Dash documentation for advanced features and examples: https://dash.plotly.com/
+* Refer to the official Dash documentation for advanced features and examples: [https://dash.plotly.com/](https://dash.plotly.com/ "Documentation")
 
 Additional Resources:
 
