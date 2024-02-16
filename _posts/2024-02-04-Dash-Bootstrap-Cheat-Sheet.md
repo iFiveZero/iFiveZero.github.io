@@ -1,5 +1,5 @@
 ---
-title: Dash Callback Cheat Sheet
+title: Dash Bootstrap Cheat Sheet
 date: 2024-02-04 07:00:00 -0000 # Note the offset of -0000 is optional
 categories: [dash, bootstrap]
 tags: [dash, bootstrap, reference]  # TAG names should always be in lowercase
